@@ -11,3 +11,9 @@ System.out.println("Hello, world!");
 ```
 
 Completed step 3
+
+- [ ] Finish this task
+- [ ] Do all hw assignments
+- [ ] Say hi
+
+complete step 4
